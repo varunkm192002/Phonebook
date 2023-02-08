@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637814399 source:c:\varun\sem 3\ads\course_project\phonebook\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string >
+
